@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "nome": "Thiago",
+      "email": "thiago@email.com",
+      "password": "senhaindecifravel",
+      "id": 1
+    },
+    {
+      "email": "adriano@email.com",
+      "password": "$2a$10$JYElS4w3aSsPlV92INYvQuMcJg4eYkzTjZ3JJ0ZIOEdPq0cRpOkXe",
+      "nome": "Adriano",
+      "id": 2
+    }
+  ]
+}
