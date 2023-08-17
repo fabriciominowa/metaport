@@ -1,8 +1,8 @@
 /* CSS Reset */
 
 .banner {
-    height: 710px;
-    background: #150043;
+    height: 610px;
+    background: linear-gradient(150deg, rgba(9,0,57,1) 50%, rgba(128,1,150,1) 20%, rgba(117,3,166) 30%);
 
 }
 
@@ -32,7 +32,7 @@
     align-items: flex-start;
     border-radius: 30px;
     background: rgb(9,0,57);
-    background: linear-gradient(143deg, rgba(9,0,57,1) 0%, rgba(230,47,208,1) 80%, rgba(128,1,150,1) 100%, rgba(114,0,141,1) 100%);
+    background: linear-gradient(190deg, rgba(9,0,57,1) 0%, rgba(230,47,208,1) 80%, rgba(128,1,150,1) 100%, rgba(114,0,141,1) 100%);
     color: white;
 
     font-family: "Roboto";
@@ -52,7 +52,7 @@
 .jogos {
     height: 170px;
 
-background: #7503A6;
+    background: linear-gradient(150deg, rgba(9,0,57,1) 20%, rgba(230,47,208,1) 200%, rgba(128,1,150,1) 20%, rgba(114,0,141,1) 20%);
 }
 .conteudo-banner p {
     font-family: "Roboto";
@@ -79,7 +79,8 @@ background: #7503A6;
 }
 
 .ofertas {
-    background: linear-gradient(90deg, rgba(21,0,67) 22%, rgba(233,21,157) 50%, rgba(97,88,231)  100%, rgba(2,0,50) 30%);
+    background:  #7503A6 ;
+text-align: center;
     padding-top: 30px;
 }
 
