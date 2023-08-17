@@ -81,25 +81,26 @@
 .ofertas {
     background:  #7503A6 ;
 text-align: center;
-    padding-top: 30px;
+justify-content: center;
+    padding-top: 10px;
 }
 
 .ofertas h2 {
     font-family: 'Roboto';
     color: #fff;
     font-size: 27px;
+    justify-content: center;
 }
 
 .espaco-produtos {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
+flex-wrap: wrap;    
+justify-content: space-evenly;
     margin-top: 25px;
 }
 
 .cardnews {
-    width: 25em;
+   width: 25em;
     height: 25em;
     background: linear-gradient(90deg, rgba(21,0,67) 22%,   rgba(2,0,50) 100%);
     color: #fff;
@@ -117,7 +118,8 @@ opacity: 70%;
 }
 
 .cardnews img {
-    width: 100%;
+    align-self: center;
+    margin-top: 50px;
 }
 
 .texto-card {
@@ -148,7 +150,7 @@ opacity: 70%;
     width: 100%;
     height: 35px;
     text-align: center;
-    line-height: 2;
+    line-height: 3;
 
     background-color: #C31616;
     border-radius: 5px;
@@ -211,6 +213,13 @@ opacity: 70%;
 
     #barras {
         display: inline-block;
+    }
+    .ofertas {
+        background:  #7503A6 ;
+    text-align: center;
+        padding-top: 30px;
+        
+
     }
 }
 
