@@ -1,12 +1,11 @@
 footer {
-    background-color: black;
+    background: linear-gradient(150deg, rgba(9,0,57,1) 50%, rgba(128,1,150,1) 20%, rgba(117,3,166) 30%);
 }
 
 .rodape {
     padding: 30px 0;
     display: flex;
     justify-content: space-between;
-
     color: white;
 }
 

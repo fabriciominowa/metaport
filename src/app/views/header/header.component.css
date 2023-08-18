@@ -1,6 +1,5 @@
 header {
-    background: #150043;
-
+    background: linear-gradient(150deg, rgba(9,0,57,1) 79.2%, rgba(128,1,150,1) 20%, rgba(117,3,166) 30%);
     height: 80px;
 }
 
@@ -32,9 +31,7 @@ header {
 .icone-menu {
     height: 40px;
 }
-
-.logo {}
-
+.logo{ align-items: end;}
 @media screen and (max-width: 1100px) {
     .cabecalho {
         position: relative;
