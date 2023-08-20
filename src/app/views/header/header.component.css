@@ -1,6 +1,6 @@
 header {
     background: linear-gradient(150deg, rgba(9,0,57,1) 79.2%, rgba(128,1,150,1) 20%, rgba(117,3,166) 30%);
-    height: 80px;
+    height: 60px;
 }
 
 .cabecalho {
@@ -11,7 +11,7 @@ header {
 }
 
 .menu {
-    width: 650px;
+    width: 600px;
     display: flex;
     justify-content: space-between;
 }
